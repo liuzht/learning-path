@@ -9,3 +9,7 @@ Well, the best way to learn something is to read its documents.
 
 - Advanced
 
+
+## Special Thanks
+
+- [Laravel-Roadmap-Learning-Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
