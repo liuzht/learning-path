@@ -16,3 +16,6 @@ https://docs.oracle.com/javase/8/
 
 ## OpenJdk
 https://openjdk.org/
+
+## The Platform Environment
+[The Platform Environment](https://docs.oracle.com/javase/tutorial/essential/environment/index.html)
