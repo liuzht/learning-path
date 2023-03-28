@@ -9,5 +9,5 @@ https://openai.com/blog/chatgpt/
 
 [How GPT3 Works Visualizations Animations](https://jalammar.github.io/how-gpt3-works-visualizations-animations)
 
-[SparksofArtificialGeneralIntelligence:EarlyexperimentswithGPT-4](https://arxiv.org/pdf/2303.12712v1.pdf)
+[Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712v1.pdf)
 
