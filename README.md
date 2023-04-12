@@ -13,3 +13,5 @@ Well, the best way to learn something is to read its documents.
 ## Special Thanks
 
 - [Laravel-Roadmap-Learning-Path](https://github.com/LaravelDaily/Laravel-Roadmap-Learning-Path)
+
+- [courseai.co](https://courseai.co/)
