@@ -17,3 +17,5 @@ Well, the best way to learn something is to read its documents.
 - [courseai.co](https://courseai.co/)
 
 - [Developer Roadmaps](https://roadmap.sh/)
+
+- [RealPython](https://realpython.com/)
